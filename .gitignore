@@ -77,6 +77,12 @@ fastlane/readme.md
 # Version control
 vcs.xml
 
+# IntelliJ
+.idea
+
+# gradle
+gradle
+
 # lint
 lint/intermediates/
 lint/generated/
